@@ -21,6 +21,7 @@ Bem-vindo à API Dev House! Esta é uma API incrível para gerenciar casas de de
 
 1. Renomeie o arquivo `.env.example` para `.env`.
 2. Configure as variáveis de ambiente no arquivo `.env` conforme necessário.
+3. Crie na raiz do projeto a pasta uploads.
 
 ### Execução
 
